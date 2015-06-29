@@ -15,8 +15,11 @@ Firmware :
 
 Action shots : 
 
+|Name|ActionShot|Video|
+| ------------- |:-------------:| -----:|
 | Auger Screw | ![Alt text](http://imgur.com/STdeMx7.jpg "Auger Screw") | <a href="http://www.youtube.com/watch?feature=player_embedded&v=657XJPbYtkE
 " target="_blank"><img src="http://img.youtube.com/vi/657XJPbYtkE/0.jpg" 
 alt="video" width="240" height="180" border="10" /><br>video</a> |
+| Weighting Hopper | ![Alt text](http://i.imgur.com/naI5Aqm.png) | (tbd) |
 
 
