@@ -15,7 +15,7 @@ Firmware :
 
 Action shots : 
 * Auger Screw
-    ![Alt text](http://i.imgur.com/5ZW0FXu.jpg)
-    Video - https://youtu.be/657XJPbYtkE
+![Alt text](http://imgur.com/STdeMx7)
+Video - https://youtu.be/657XJPbYtkE
 
 
