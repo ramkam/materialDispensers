@@ -12,10 +12,10 @@ Firmware :
 * Multiple Hopper control - sequential (tbd)
 * Multiple Hopper control - asynchronous (tbd)
 
-Images :
 
+Action shots : 
 * Auger Screw
-![Alt text](http://i.imgur.com/MU2fMEZ.jpg)
-http://i.imgur.com/5ZW0FXu.jpg
+    ![Alt text](http://i.imgur.com/5ZW0FXu.jpg)
+    Video - https://youtu.be/657XJPbYtkE
 
 
