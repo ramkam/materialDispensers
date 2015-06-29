@@ -14,7 +14,8 @@ Firmware :
 
 Images :
 
-Auger Screw
-![Alt text](https://www.dropbox.com/s/zesileru9sf375b/Hopper%20Test%20IMG_5179.JPG?dl=0)
+* Auger Screw
+![Alt text](http://i.imgur.com/MU2fMEZ.jpg)
 https://youtu.be/657XJPbYtkE
+
 
