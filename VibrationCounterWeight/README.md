@@ -4,7 +4,7 @@ This is a 3D printed counter weight that is to be used with a small DC hobby mot
 This counter weight in combination with a DC hobby motor is designed to be used in a vibrating tray style dispenser. 
 
 ##Image
-![Image](/materialDispensers/CounterWeight.png)
+![Image](CounterWeight18mm.png?raw=true)
 
 ##Video
 [![Link to video](http://img.youtube.com/vi/2IXfN_OTrtc/0.jpg)](http://www.youtube.com/watch?v=2IXfN_OTrtc "Prototype vibrating material dispenser")
